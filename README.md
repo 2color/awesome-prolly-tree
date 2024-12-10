@@ -18,7 +18,7 @@ An awesome list for all things Prolly Trees.
 
 - [Probabilistic Merkle B-Trees in Noms](https://github.com/attic-labs/noms/blob/master/doc/intro.md#prolly-trees-probabilistic-b-trees)
   - author: [Aaron Boodman](https://aaronboodman.com/)
-  - [slides version]((https://docs.google.com/presentation/d/18zRxxI7plB0mJkhLPfo8KJ_f-tyIIPj9L4dZroyqEF0/edit#slide=id.g3615e39343_0_0))
+  - [slides version](https://docs.google.com/presentation/d/18zRxxI7plB0mJkhLPfo8KJ_f-tyIIPj9L4dZroyqEF0/edit#slide=id.g3615e39343_0_0)
 - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/)
   - author: [Tim Sehn](https://github.com/timsehn)
   - implementation: [dolt](https://github.com/dolthub/dolt)
