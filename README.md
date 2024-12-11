@@ -46,6 +46,8 @@ An awesome list for all things Prolly Trees.
   - author: [Mauve Signweaver](https://github.com/RangerMauve)
 - [Some notes and questions on Prolly Trees](https://github.com/attic-labs/noms/issues/3878)
   - authors: [Mikeal Rogers](https://github.com/mikeal) and [Aaron Boodman](https://github.com/aboodman)
+- [Lab note #027 Breadcrumb to Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-027-breadcrumb-to-prolly-trees/)
+  - author: [Wil Chung](https://x.com/iamwil)
 
 ## Credits
 
