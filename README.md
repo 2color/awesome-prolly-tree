@@ -14,6 +14,12 @@ An awesome list for all things Prolly Trees.
 | https://github.com/attic-labs/noms | go |
 | https://github.com/RangerMauve/ipld-prolly-indexer/ | go |
 
+## Tools
+
+| source | language | purpose |
+| ------ | -------- | ------- |
+| [KenCloud-Tech/prolly-tree-oracle](https://github.com/KenCloud-Tech/prolly-tree-oracle) | go | Enable smart contracts to create/read/update/delete to prolly trees. |
+
 ## Learning Resources:
 
 - [Probabilistic Merkle B-Trees in Noms](https://github.com/attic-labs/noms/blob/master/doc/intro.md#prolly-trees-probabilistic-b-trees)
