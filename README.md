@@ -49,7 +49,7 @@ A Prolly Tree is a hybrid data structure that combines the features of B-trees a
 
 - [Prolly Trees](https://www.dolthub.com/blog/2024-03-03-prolly-trees/) - Introduction to prolly-trees.
 - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit) - Content-defined merkle trees: A node is the first child of its parent if `u32(node.hash[0..4]) < (2^32 / Q)`.
-- [Peer-to-peer ordered search indexes](https://0fps.net/2020/12/19/peer-to-peer-ordered-search-indexes/) - Peer-to-Peer Ordered Search Indexes and how Prolly Trees are used to implement them.
+- [Peer-to-peer ordered search indexes](https://0fps.net/2020/12/19/peer-to-peer-ordered-search-indexes/) - Peer-to-Peer Ordered Search Indexes and how Prolly Trees are used to implement them with comparison to Merkle Search Trees.
 - [Efficient Diff on Prolly-trees](https://www.dolthub.com/blog/2020-06-16-efficient-diff-on-prolly-trees/) - Visual examples for prolly-tree diffs.
 - [Probabilistic Merkle B-Trees in Noms](https://github.com/attic-labs/noms/blob/master/doc/intro.md#prolly-trees-probabilistic-b-trees) - One of the first design documents on prolly-trees from Noms.
 - [Probabilistic Merkle B-Trees in Noms (slides)](https://docs.google.com/presentation/d/18zRxxI7plB0mJkhLPfo8KJ_f-tyIIPj9L4dZroyqEF0/edit#slide=id.g3615e39343_0_0) - Slides for the prolly-trees from Noms.
@@ -58,7 +58,8 @@ A Prolly Tree is a hybrid data structure that combines the features of B-trees a
 - [Range-Based Set Reconciliation](https://logperiodic.com/rbsr.html) - Introduction to Range-Based Set Reconciliation with a mention of how it relates to Prolly Trees (Negantrophy section uses `[number, hash]` tuples as keys).
 - [IPLD Prolly Tree Analysis](https://github.com/RangerMauve/blog.mauve.moe/pull/3) - Analysis of IPLD Prolly Trees.
 - [Some notes and questions on Prolly Trees](https://github.com/attic-labs/noms/issues/3878)
-- [Lab note #027 Breadcrumb to Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-027-breadcrumb-to-prolly-trees/)
+- [Prolly Trees](https://jzhao.xyz/thoughts/Prolly-Trees) - An overview of Prolly Trees and how they compare to Merkle Search Trees.
+- [Lab note #027 Breadcrumb to Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-027-breadcrumb-to-prolly-trees/) - A look at how Prolly Trees are used in Breadcrumb.
 
 ## Credits
 
