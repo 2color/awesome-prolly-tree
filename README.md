@@ -36,10 +36,12 @@ A Prolly Tree is a hybrid data structure that combines the features of B-trees a
 
 - https://github.com/tabcat/prollipop
 - https://github.com/canvasxyz/okra-js
+- https://github.com/dialog-db/dialog-db/
 
 ### Rust
 
 - https://github.com/zhangfengcdt/prollytree
+- https://github.com/dialog-db/dialog-db/
 
 ## Tools
 
@@ -60,6 +62,7 @@ A Prolly Tree is a hybrid data structure that combines the features of B-trees a
 - [Some notes and questions on Prolly Trees](https://github.com/attic-labs/noms/issues/3878)
 - [Prolly Trees](https://jzhao.xyz/thoughts/Prolly-Trees) - An overview of Prolly Trees and how they compare to Merkle Search Trees.
 - [Lab note #027 Breadcrumb to Prolly Trees](https://interjectedfuture.com/lab-notes/lab-note-027-breadcrumb-to-prolly-trees/) - A look at how Prolly Trees are used in Breadcrumb.
+- [People Keep Inventing Prolly Trees](https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/)
 
 ## Credits
 
